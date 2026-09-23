@@ -118,12 +118,4 @@ pip install pandas numpy jupyter
 
 ---
 
-## 🤝 Contribution & Feedback
 
-Contributions, suggestions, and feedback are always welcome! If you find any bugs or want to suggest improvements to these notebooks:
-1. Open an issue on the [Issues Tab](https://github.com/parvezadnan07/pandas-journey/issues).
-2. Submit a Pull Request with your proposed enhancements.
-
-<div align="center">
-  <sub>Built with passion and persistence by <a href="https://github.com/parvezadnan07">Parvez Adnan</a></sub>
-</div>
