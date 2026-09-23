@@ -21,14 +21,13 @@
 
 | Module ID | Module Title | Core Concepts Covered | Status | Complexity | Notebook Link |
 | :---: | :--- | :--- | :---: | :---: | :---: |
-| **01** | **Pandas Series Basics** | 1D Data Structures, Indexing, Vectorized Operations | 🟢 Completed | Beginner | [View Notebook](pandas_series.ipynb) |
-| **02** | **DataFrames Mastery** | 2D Tabular Structures, Selection, Conditional Filtering | 🟢 Completed | Intermediate | [View Notebook](pandas_dataframes.ipynb) |
-| **03** | **Handling Missing Data** | Null Detection, Imputation Strategies, Data Dropping | 🟢 Completed | Intermediate | [View Notebook](pandas_missing_data.ipynb) |
-| **04** | **Indexing & Selection** | Multi-indexing, Conditional Slicing, `.loc[]` / `.iloc[]` | 🟢 Completed | Intermediate | [View Notebook](pandas_indexing.ipynb) |
-| **05** | **Data Aggregation & Groupby** | Split-Apply-Combine, Pivot Tables, Statistical Summaries | 🟢 Completed | Advanced | [View Notebook](pandas_groupby.ipynb) |
-| **06** | **Merging & Joining Data** | Concat, Merge, Inner/Outer Joins, Data Integration | 🟢 Completed | Advanced | [View Notebook](pandas_merging.ipynb) |
-| **07** | **Advanced EDA & Export** | String Operations, Datetime Parsing, Data Visualization | 🟢 Completed | Advanced | [View Notebook](pandas_eda_export.ipynb) |
-
+| **01** | **Pandas Series Basics** | 1D Data Structures, Indexing, Vectorized Operations | 🟢 Completed | Beginner | [View Notebook](1.%20Series.ipynb) |
+| **02** | **DataFrames Mastery** | 2D Tabular Structures, Selection, Conditional Filtering | 🟢 Completed | Intermediate | [View Notebook](2.%20DataFrames.ipynb) |
+| **03** | **Handling Missing Data** | Null Detection, Imputation Strategies, Data Dropping | 🟢 Completed | Intermediate | [View Notebook](3.%20MissingData.ipynb) |
+| **04** | **Indexing & Selection** | Multi-indexing, Conditional Slicing, `.loc[]` / `.iloc[]` | 🟢 Completed | Intermediate | [View Notebook](4.%20Merging_Joining_Concatenation.ipynb) |
+| **05** | **Data Aggregation & Groupby** | Split-Apply-Combine, Pivot Tables, Statistical Summaries | 🟢 Completed | Advanced | [View Notebook](5.%20GroupByAggregation.ipynb) |
+| **06** | **Merging & Joining Data** | Concat, Merge, Inner/Outer Joins, Data Integration | 🟢 Completed | Advanced | [View Notebook](6.%20PivotTables.ipynb) |
+| **07** | **Advanced EDA & Export** | String Operations, Datetime Parsing, Data Visualization | 🟢 Completed | Advanced | [View Notebook](7.%20Operations.ipynb) |
 ---
 
 ## 🧠 Comprehensive Module Breakdown
